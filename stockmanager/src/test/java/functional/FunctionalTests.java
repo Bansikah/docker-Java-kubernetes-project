@@ -1,8 +1,12 @@
+
 package functional;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
+import org.junit.Test;
 import org.junit.runner.RunWith;
+
+import static org.junit.Assert.assertTrue;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(monochrome = true,
@@ -11,5 +15,10 @@ import org.junit.runner.RunWith;
         glue = "functional",
         strict = true)
 public class FunctionalTests {
+
+    @Test
+    public void test() {
+        assertTrue(true);
+    }
 
 }

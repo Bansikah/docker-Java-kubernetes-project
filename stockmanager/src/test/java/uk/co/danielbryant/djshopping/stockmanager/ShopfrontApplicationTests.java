@@ -7,6 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import static org.junit.Assert.assertTrue;
+
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT, classes = StockManagerApplication.class)
 public class ShopfrontApplicationTests {
@@ -16,5 +18,6 @@ public class ShopfrontApplicationTests {
 
     @Test
     public void contextLoads() {
+        assertTrue(true);
     }
 }

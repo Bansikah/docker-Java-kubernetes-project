@@ -1,0 +1,9 @@
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/resources/ProductResource.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/ShopfrontApplication.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/controllers/HomeController.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/model/Product.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/ProductRepo.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/StockRepo.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/ProductDTO.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/StockDTO.java
+/Users/studentaccount/Desktop/praticeProjects/learning/kubernetes/youtube/docker-Java-kubernetes-project/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/ProductService.java
